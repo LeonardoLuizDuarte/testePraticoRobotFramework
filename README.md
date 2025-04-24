@@ -6,8 +6,8 @@
 > Para garantir seu projeto na sua máquina realize o clone do projeto através do GitHub
 
 ```
-cd *pasta*
-git clone add origin *link do projeto*
+cd C:\pasta\testePraticoRobotFramework
+git clone add origin https://github.com/LeonardoLuizDuarte/testePraticoRobotFramework.git
 
 ```
 
